@@ -1,0 +1,22 @@
+{
+  "name": "qr-code-component-using-tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/00lar/QR-code-component-using-tailwind.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/00lar/QR-code-component-using-tailwind/issues"
+  },
+  "homepage": "https://github.com/00lar/QR-code-component-using-tailwind#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
